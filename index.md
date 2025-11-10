@@ -1,4 +1,4 @@
-!!!NAME:
-!Matt Tokunaga
-!!!EMAIL
-!m2tokunaga@ucsd.edu
+### NAME:
+# Matt Tokunaga
+### EMAIL
+# m2tokunaga@ucsd.edu
